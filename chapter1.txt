@@ -1,1 +1,2 @@
 Alin este un frontend develeper.
+MIhai este un backend developer
